@@ -9,7 +9,7 @@ public class Application {
         // Création de quelques chiens
         //////////////////////////////////////////////////////////////////////////////////
         Chien chien1 = new Chien("Pluto", 12);
-        Chien chien2 = new Chien("Droopy",14);
+        Chien chien2 = new Chien("test",14);
         Chien chien3 = new Chien("Scooby Doo", 8);
 
         //////////////////////////////////////////////////////////////////////////////////
